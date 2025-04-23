@@ -1,0 +1,1 @@
+Anh="/mnt/01DB783D25219E60/HOMEWORK/TGMT/Thai_tuan_TH2/Example.jpg"
