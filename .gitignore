@@ -1,3 +1,12 @@
-./*.zip
-./.*
-./ThiGiacPC
+.venv
+.TGMTvenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.egg
+*.log
+*.zip
