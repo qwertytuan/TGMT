@@ -1,7 +1,6 @@
 import cv2 as cv
 import matplotlib.pyplot as plt
 
-# Read an image
 
 img = cv.imread('/mnt/01DB783D25219E60/HOMEWORK/TGMT/TH_1/pic.png')
 img = img[0:640, 0:640]
@@ -18,7 +17,7 @@ y1 = int(input("Nhap toa do y1 :"))
 x2 = int(input("Nhap toa do x2 :"))
 y2 = int(input("Nhap toa do y2 :"))
 
-# Validate input coordinates
+
 if x1 < 0 or y1 < 0 or x2 > w or y2 > h or x1 >= x2 or y1 >= y2:
     print("Loi.")
     exit()
