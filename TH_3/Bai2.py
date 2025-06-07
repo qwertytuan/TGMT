@@ -1,3 +1,5 @@
+# doc video, phim x de lay ra 1 anh , tach biên bằng laplace, luu anh
+
 import cv2 as cv
 
 cap = cv.VideoCapture('TH_3/bai2.mp4')

@@ -1,3 +1,5 @@
+# doc anh, thay doi kich thuoc anh nhap tu ban phim, phan nguong bang phuong phap adaptive thresholding
+
 import cv2 as cv
 import matplotlib.pyplot as plt
 

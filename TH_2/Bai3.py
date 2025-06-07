@@ -1,3 +1,5 @@
+# doc video, anh phim g thanh anh xam, phim s de luu, q de thoat
+
 import cv2 as cv
 
 cap = cv.VideoCapture('Thai_tuan_TH4/Video.mp4')

@@ -1,3 +1,5 @@
+# doc anh, loc anh bang bo loc song phuong, tim va ve contour
+
 import cv2 as cv
 
 image = cv.imread('TH_3/bai1.jpg')
@@ -17,3 +19,4 @@ cv.imshow('Bilateral Filter', image)
 
 cv.waitKey(0)
 cv.destroyAllWindows()
+

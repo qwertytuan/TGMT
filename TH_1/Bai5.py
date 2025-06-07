@@ -1,3 +1,5 @@
+# doc anh, tao trackbar de thay doi nguong nhi phan do, hien thi anh nhi phan
+
 import cv2 as cv
 
 image = cv.imread('pic.png')

@@ -1,3 +1,5 @@
+# doc video, hien thi so khung hinh tren giay, nhan phim q de thoat
+
 import cv2 as cv
 
 

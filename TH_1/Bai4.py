@@ -1,3 +1,5 @@
+# doc anh, lam mo anh bang trackbar va ve contour
+
 import cv2 as cv
 import numpy as np
 

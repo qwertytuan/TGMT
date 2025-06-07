@@ -1,3 +1,5 @@
+# doc anh, xoay anh theo goc nhap vao tu trackbar
+
 import cv2 as cv
 
 image = cv.imread('pic.png')

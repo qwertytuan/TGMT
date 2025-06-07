@@ -1,3 +1,5 @@
+# doc video, nhan phim s de chup, thuc hien co gian va luu
+
 import cv2 as cv
 
 def DilationAndErosion(img):

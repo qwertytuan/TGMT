@@ -1,3 +1,5 @@
+# doc anh, hien kich thuoc, cat anh theo toa do nhap vao, chuyen sang xam, ap dung otsu de phan nguong toi uu
+
 import cv2 as cv
 import matplotlib.pyplot as plt
 

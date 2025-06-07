@@ -1,3 +1,4 @@
+# doc anh, chuyen sang xam, lam mo anh, ap dung sobel de phat hien bien doi
 import cv2 as cv
 import matplotlib.pyplot as plt
 
